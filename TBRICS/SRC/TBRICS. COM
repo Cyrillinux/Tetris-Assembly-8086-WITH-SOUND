@@ -1,0 +1,13 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 000F8H 000F9H CSEG               CODE
+ 00100H 0013FH 00040H STACK              STACK
+ 00140H 0023EH 000FFH DATA               DATA
+ 00240H 0025DH 0001EH ENVIR              ENVIR
+
+Fixup overflow in module TETRIS.ASM at CSEG:009A, target = 0000:0000
+Fixup overflow in module TETRIS.ASM at CSEG:00B9, target = 0000:0000
+Fixup overflow in module TETRIS.ASM at CSEG:00D8, target = 0000:0000
+Program entry point at 0000:0000
+

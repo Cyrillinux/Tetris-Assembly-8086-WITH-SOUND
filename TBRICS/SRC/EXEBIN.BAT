@@ -1,0 +1,1 @@
+EXE2BIN %1.EXE %1.COM
