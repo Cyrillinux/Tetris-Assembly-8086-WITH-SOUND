@@ -6,7 +6,7 @@ Pur assembly 8086.
 
 TBRICS.EXE  : Main program (Launch subprograms...)
 
-SNDSVRA.COM : Sound Server Part (Level) A (Charging in Memory) by Cyril Barbato from Tetris theme partition
+SNDSVRA.COM : Sound Server Part (Level) A (Loaded in Memory) by Cyril Barbato from Tetris theme partition
             : Based on song player written by ohammadalfarisi,  Many thanks ;-) (https://medium.com/@mohammadalfarisi00)
 SNDSTOP.COM : Sound Server Stop
 TBRICSPA.   : Tetris Game Part (Level) A
